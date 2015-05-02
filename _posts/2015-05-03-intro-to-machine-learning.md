@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine Learning - Intro
-excerpt: "Just an (in)formal introduction"
+excerpt: "Introduction to machine learning"
 modified: 2013-05-31
 tags: [machine learning]
 comments: true
