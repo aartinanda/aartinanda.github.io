@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Learning
+title: Intro - My First Post
 excerpt: "Just an (in)formal introduction"
 modified: 2013-05-31
 tags: [machine learning]
