@@ -2,7 +2,7 @@
 layout: post
 title: Intro - My First Post
 excerpt: "Just an (in)formal introduction"
-modified: 2013-05-31
+modified: 2015-05-03
 tags: [machine learning]
 comments: true
 image:

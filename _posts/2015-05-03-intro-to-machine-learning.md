@@ -2,7 +2,7 @@
 layout: post
 title: Machine Learning - Intro
 excerpt: "Introduction to machine learning"
-modified: 2013-05-31
+modified: 2015-05-04
 tags: [machine learning]
 comments: true
 image:
